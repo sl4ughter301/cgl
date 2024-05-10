@@ -1,0 +1,5 @@
+sudo apt update && apt upgrade
+sudo apt-get install freeglut3-dev
+g++ filename.cpp -o OutputFilename -lglut -lGLU -lGL
+
+
